@@ -119,6 +119,12 @@ Suspenders also comes with:
 [hound]: https://houndci.com
 [segment]: https://segment.com
 
+## Nitrous Quickstart
+
+You can create a suspenders development environment on Nitrous quickly by using the following button:
+
+[![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/project/new)
+
 ## Heroku
 
 You can optionally create Heroku staging and production apps:

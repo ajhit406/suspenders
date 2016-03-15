@@ -1,0 +1,7 @@
+{
+  "template": "rails",
+  "ports": [3000],
+  "name": "Thoughtbot Suspenders",
+  "logo": "",
+  "description": "A Rails template with our standard defaults, ready to deploy to Heroku."
+}
