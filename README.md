@@ -123,7 +123,7 @@ Suspenders also comes with:
 
 You can create a suspenders development environment on Nitrous quickly by using the following button:
 
-[![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/project/new)
+[![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
 
 ## Heroku
 
